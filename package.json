@@ -6,7 +6,7 @@
     "build": "npm run build:server && npm run build:client",
     "build:client": "cd client && tsc && vite build",
     "build:server": "npm run openapi",
-    "dev": "npm run build && npm run serve",
+    "dev": "npm run build && npm run start",
     "openapi": "openapi --input https://cdn.slashid.com/slashid-openapi-latest.yaml --output ./slashid --client axios",
     "start": "ts-node ./server"
   },
