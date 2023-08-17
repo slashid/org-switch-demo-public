@@ -5,7 +5,7 @@ A web app that demonstrates SlashID suborganizations and organization switching.
 Uses [React](https://react.dev/), [Vite](https://vitejs.dev/), [Node](https://nodejs.org/en), [Fastify](https://fastify.dev/), and [openapi-typescript-codegen](https://www.npmjs.com/package/openapi-typescript-codegen).
 
 ## Read the guide
-This repo is a barebones reproduction of the [/id Notes](https://slashid-notes.onrender.com/) full-stack multi-tenant example app featuring organization switching.
+This repo is a barebones reproduction of the [/id Notes](https://multitenancy-demo.slashid.dev/) full-stack multi-tenant example app featuring organization switching.
 
 The code here acts as a reference for the guide:  
   
