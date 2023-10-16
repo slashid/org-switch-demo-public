@@ -9,7 +9,7 @@ This repo is a barebones reproduction of the [/id Notes](https://multitenancy-de
 
 The code here acts as a reference for the guide:  
   
-[How to Build a Multi-Tenant App with Organization Switching using React, Fastify and SlashID](https://developer.slashid.dev/docs/guides/suborgs/org-switching-example)
+[How to Build a Multi-Tenant App with Organization Switching using React, Fastify and SlashID](https://developer.slashid.dev/docs/access/guides/suborgs/org-switching-example)
 
 ## Using this repo
 
